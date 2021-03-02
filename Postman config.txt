@@ -1,8 +1,10 @@
 Postman had to be downloaded on your local machine or you can use Postman web version. 
 
+
 Download Postman from here https://www.postman.com/
 
 Start working with web based Postman from here https://web.postman.com/
+
 
 Start working with a Postman by creating your account and creating collection in your workspace for specific app. This will be your enviroment.
 
