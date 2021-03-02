@@ -2,6 +2,7 @@
 Manual API tests performed with Postman
 
 
+
 **Base URL** https://jsonplaceholder.typicode.com.
 
 
