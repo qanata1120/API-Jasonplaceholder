@@ -57,3 +57,5 @@ PUT	/posts/1
 PATCH	/posts/1
 
 DELETE	/posts/1
+
+**To run Jasonplaceholder collection please import it in your Postman and run each call.**
