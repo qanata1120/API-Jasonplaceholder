@@ -37,6 +37,7 @@ Note: resources have relations. For example: posts have many comments, albums ha
 
 Routes
 
+
 **All HTTP methods are supported. You can use http or https for your requests.**
 
 
