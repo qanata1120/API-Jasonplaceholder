@@ -1,0 +1,7 @@
+JasonPlaceholder API doesn't require any type of authorization.
+All API calls can be performed by not authorized user.
+
+In other situations when API calls can be performed only by authorized user,we need:
+1. Read API documentation about autorization method
+2. If it is an API key or API token, get it by  creating new user with POST and param username and password (mostlikely, but not limited to)
+3. Further reuse your received token or API key in performing every call by setting Authozization method for whole collection.
