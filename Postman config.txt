@@ -1,0 +1,13 @@
+Postman had to be downloaded on your local machine or you can use Postman web version. 
+
+Download Postman from here https://www.postman.com/
+
+Start working with web based Postman from here https://web.postman.com/
+
+Start working with a Postman by creating your account and creating collection in your workspace for specific app. This will be your enviroment.
+
+Set variables for your working enviroment. Most common "baseURL" or "HOST" valiable and then other variebles if you have many diffenent endpoints. It will be asier for you to reuse them.
+
+Save each call you performed in your collection for further reusage. 
+
+If you need to change enviroment from QA to Prod or Staging, set separatly another enviroment with its variables and endpoints. 
